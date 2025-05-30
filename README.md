@@ -1,7 +1,7 @@
 # Meshtastic-Microbit
 Sending and receiving Messages using a BBC Micro:bit
 
-![Image](microbit_setup.png)
+![Image](microbit_setup.jpg)
 
 This is a bit of fun to send and receive Meshtastic messages using a BBC Micro:bit.
 
