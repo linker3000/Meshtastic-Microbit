@@ -13,4 +13,6 @@ The other link between the two boards is a common GND/0V connection. The connect
 
 The Python code for the Micro:bit sets up canned messages on the buttons which are sent when the buttons are pressed. There's also a heartbeat LED in the lower right corner of the display that confirms the code is running.
 
+![Image](messages.jpg)
+
 Video here: https://youtu.be/GG2j2FxR3t8
