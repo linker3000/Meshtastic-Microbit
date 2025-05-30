@@ -7,7 +7,7 @@ This is a bit of fun to send and receive Meshtastic messages using a BBC Micro:b
 
 A Micro:bit V1 is hooked up to a Seeed Studios ESP32S3 Meshtastic board mounted on a home-made dev platform.
 
-Microbit P0 is set as async Tx and P1 is set as async Rx, connected to the ESP32S3 Async Rx and Tx respectively, with the Meshtastic config enabling the serial interface in TEXTMSG mode.
+Microbit P0 is set as async Tx and P1 is set as async Rx, connected to the ESP32S3 async Rx and Tx respectively, with the Meshtastic config enabling the serial interface in TEXTMSG mode.
 
 The other link between the two boards is a common GND/0V connection. The connections are made using a small interface board that has a couple of 1K resistors in series with the signals. The resistors stop anything being damaged if misconnections are made.
 
