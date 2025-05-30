@@ -1,6 +1,8 @@
 # Meshtastic-Microbit
 Sending and receiving Messages using a BBC Micro:bit
 
+![Image](microbit_setup.png)
+
 This is a bit of fun to send and receive Meshtastic messages using a BBC Micro:bit.
 
 A Micro:bit V1 is hooked up to a Seeed Studios ESP32S2 Meshtastic board mounted on a home-made dev platform.
