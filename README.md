@@ -5,7 +5,7 @@ Sending and receiving Messages using a BBC Micro:bit
 
 This is a bit of fun to send and receive Meshtastic messages using a BBC Micro:bit.
 
-A Micro:bit V1 is hooked up to a Seeed Studios ESP32S2 Meshtastic board mounted on a home-made dev platform.
+A Micro:bit V1 is hooked up to a Seeed Studios ESP32S3 Meshtastic board mounted on a home-made dev platform.
 
 Microbit P0 is set as Async Tx and P1 is set as async Rx, connected to the ESP32S3 Async Rx and Tx respectively, with the Meshtastic config enabling the serial interface in TEXTMSG mode.
 
