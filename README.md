@@ -1,5 +1,5 @@
 # Meshtastic-Microbit
-Sending and receiving Messages using a BBC Micro:bit
+Sending and receiving Meshtastic messages using a BBC Micro:bit
 
 ![Image](microbit_setup.jpg)
 
